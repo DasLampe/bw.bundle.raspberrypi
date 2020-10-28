@@ -1,7 +1,7 @@
 # Raspberry PI Config via Bundlewrap
 
 ## Example config
-````python
+```python
 nodes['foobar'] = {
     'metadata': {
         'raspberrypi': {
